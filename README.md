@@ -5,15 +5,16 @@ Esse é um projeto prático desenvolvido para dominar a linha de comando Linux, 
 ---
 
 ## Comandos Utilizados
-
-*`pwd`: Para localizar meu diretório atual
-*`ls`: Lista arquivos e pastas
-*`cd`: Entra em pastas
-*`mkdir`: Para criar uma estrutura de pastas (`css`,`js`, `etc..`)
-*`touch`: Cria arquivos (`txt`, `html`...)
-*`cp`: Copia arquivos e pastas
-*`mv`: Move ou renomeia arquivos e pastas
-*`rm`: Remove/Deleta arquivos desejados
+| Comandos | Funções |
+| :---- | :---- |
+| `pwd` | Para localizar meu diretório atual |
+| `ls` | Lista arquivos e pastas
+| `cd` | Entra em pastas
+| `mkdir` | Para criar uma estrutura de pastas (`css`,`js`, `etc..`)
+| `touch` | Cria arquivos (`txt`, `html`...)
+| `cp` | Copia arquivos e pastas
+| `mv` | Move ou renomeia arquivos e pastas
+| `rm` | Remove/Deleta arquivos desejados
 
 ---
 
